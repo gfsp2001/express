@@ -1,0 +1,21 @@
+{
+  "name": "api-pokemon",
+  "version": "1.0.0",
+  "description": "API Rest con nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Giancarlo S.",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

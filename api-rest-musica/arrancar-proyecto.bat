@@ -1,0 +1,1 @@
+start cmd.exe /k "e: && cd E:\api-rest-musica && npm start"

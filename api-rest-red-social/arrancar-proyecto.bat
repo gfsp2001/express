@@ -1,0 +1,1 @@
+start cmd.exe /k "e: && cd E:\api-rest-red-social && npm start"
